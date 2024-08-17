@@ -12,7 +12,7 @@ aa**bbb** ccc
 2. vegetables
 - carrot
 - broccoli
-<img src="/assets/img/vs.png" alt="Example Image" width="100" />
+<img src="assets/img/vs.png" alt="Example Image" width="100" />
 
 [GitHub](https://github.com)
 ## Introduction
